@@ -6,10 +6,10 @@ My current weapons of choice are PHP Laravel, HTML5, jQuery, and MySQL. Being bo
 
 Services
 ========
-  1.Mobile & Web Design -> 
+  1.Mobile & Web Design => 
       I simply love my work. All my designs start from a blank canvas, so you will never have have a website that comes from a pre made site.
       
-  2.Mobile & web development ->
+  2.Mobile & web development =>
       I develop mobile-fiendly websites.I ensure my web codes meet the highest web standards that works across all major browsers and SEO ffriendly.
 
 
